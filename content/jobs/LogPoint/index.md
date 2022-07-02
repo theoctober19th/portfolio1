@@ -1,6 +1,6 @@
 ---
 date: '2022-07-14'
-title: 'Associate Software Engineer'
+title: 'Software Engineer'
 company: 'LogPoint'
 location: 'Copenhagen, Denmark'
 range: 'August 2020 - Present'
