@@ -7,7 +7,7 @@ module.exports = {
       'Bikalpa Dhakal is a software engineer, digital content creator, freelancer and instructor from Pokhara, Nepal.',
     siteUrl: 'https://bikalpa.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@theoctober19th',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'BikalpaDhakal',
+        short_name: 'BikalpaDhakal',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
