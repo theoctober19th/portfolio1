@@ -175,7 +175,7 @@ const Nav = ({ isHome }) => {
   const ResumeLink = (
     <a
       className="resume-button"
-      href="https://rxresu.me/bikalpacodes/egozvq"
+      href="https://rxresu.me/bikalpacodes/resume"
       target="_blank"
       rel="noopener noreferrer">
       Resume
